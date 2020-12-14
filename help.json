@@ -66,7 +66,7 @@
 			"Usage:": "setlogs [general, moderation, voice, member, message, server] <#channel>"
 		},
 		"bean":{
-			"Description:": "Bean a user to bean them!",
+			"Description:": "Use this command to bean a user!",
 			"Who can use it:": "@moderator",
 			"Usage:": "bean <@user> [reason]"
 		},
